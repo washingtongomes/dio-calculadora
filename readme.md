@@ -12,7 +12,7 @@
 ![preview](./.github/preview.png)
 
 
-[Clique aqui para acessar o site](https://washingtongomes.github.io/dio-desafio-calculadora/)
+[Clique aqui para acessar o site](https://washingtongomes.github.io/dio-calculadora/)
 
 ## Referência:
 
